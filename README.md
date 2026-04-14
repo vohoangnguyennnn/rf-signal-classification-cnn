@@ -205,9 +205,8 @@ After a successful run, the following artifacts are written to `outputs/`:
 
 ---
 
-## Key Results
+## Notes
 
-- Achieved **~99.5% mAP@0.5** on validation set
-- mAP@0.5:0.95 ≈ **0.71**
-- Lightweight model with **<100k parameters**
-- Stable training with Mixup, OneCycleLR, and early stopping
+- The dataset is not included in this repository.
+- The trained model is available in the `outputs/` folder.
+- This project was developed and tested on both local environment and Kaggle.
