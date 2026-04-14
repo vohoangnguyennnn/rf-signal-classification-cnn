@@ -1,15 +1,14 @@
 # RF Signal Classification via Lightweight CNN
 
-A custom CNN-based RF signal classification pipeline operating on spectrogram images. The model is kept under **100k parameters** using MobileNetV2-style inverted residuals, Squeeze-and-Excitation attention, and multi-scale feature fusion — designed to train fast on limited hardware while maintaining competitive accuracy.
-
-# RF Signal Classification via Lightweight CNN
-
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.2-red)
 ![NumPy](https://img.shields.io/badge/numpy-1.23-orange)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+
+A custom CNN-based RF signal classification pipeline operating on spectrogram images. The model is kept under **100k parameters** using MobileNetV2-style inverted residuals, Squeeze-and-Excitation attention, and multi-scale feature fusion — designed to train fast on limited hardware while maintaining competitive accuracy.
 
 ---
 
